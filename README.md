@@ -29,3 +29,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0sta90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [dark]: https://github-readme-stats.vercel.app/api?username=c0sta90&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/109308073/204124026-2b60bb96-2bbf-4603-81ac-a70ec77749f1.svg)
