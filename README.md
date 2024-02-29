@@ -28,4 +28,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c0sta90&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-https://platane.github.io/snk/
+[dark]: https://github-readme-stats.vercel.app/api?username=c0sta90&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dark
