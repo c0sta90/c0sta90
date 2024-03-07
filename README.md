@@ -19,7 +19,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js" />
   </a>
 </p>
 
