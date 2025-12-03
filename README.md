@@ -31,7 +31,8 @@
   <img width="12" />
   <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f6ac.svg" height="40" alt="cigarette" />
   <img width="12" />
-  <img src="https://img.icons8.com/ios/50/000000/iqos.png" height="40" alt="iqos icon" />
+  <img src="https://img.icons8.com/ios/512/000000/iqos.svg" height="40" alt="IQOS icon" />
+
   
 </div>
 
