@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2FuROPapUS7o8p%2Fcigarette&psig=AOvVaw3z2npLyKpS6GVR4WMfuJ8E&ust=1764864108313000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC7jaTloZEDFQAAAAAdAAAAABAE" height="40" alt="python logo"  />
+  <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Femojipedia.org%2Ffr%2Ftwitter-emoji-stickers%2F13.1%2Fcigarette&psig=AOvVaw3z2npLyKpS6GVR4WMfuJ8E&ust=1764864108313000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNC7jaTloZEDFQAAAAAdAAAAABAL" height="40" alt="cigarrete"  />
   
   
 </div>
